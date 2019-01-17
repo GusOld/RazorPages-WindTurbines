@@ -1,2 +1,2 @@
 # RazorPages-WindTurbines
-Laboration i syfte att ska kommentarer med razor pages
+Laboration - kommentarer med razor pages
